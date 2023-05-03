@@ -39,7 +39,8 @@ class GUIWidget(QWidget, gui_formet[0], Node):
         # self.executor_.add_node(self)
 
         self.cmd_pub = self.create_publisher(Twist, '/turtle1/cmd_vel', qos)
-        
+
+        # Code that connects the function to the button  (Page 1)
         # self.high_speed_button.clicked.connect(self.speed_up_callback)
         # self.low_speed_button.clicked.connect(self.speed_down_callback)
 
@@ -48,7 +49,6 @@ class GUIWidget(QWidget, gui_formet[0], Node):
         self.right_button.clicked.connect(self.right_command_callback)
         self.rear_button.clicked.connect(self.rear_command_callback)
         self.spot_button.clicked.connect(self.stop_command_callback)
-        
 
     # joystick control button
     def front_command_callback(self):
