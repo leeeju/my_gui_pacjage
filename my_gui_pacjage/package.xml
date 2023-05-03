@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>my_gui_pacjage</name>
+  <version>0.0.0</version>
+  <description>TODO: my gui Package</description>
+  <maintainer email="02stu4@gmail.com">turtle</maintainer>
+  <license>Apache 2.0</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <depend>geometry_msgs</depend>
+  <depend>python_qt_binding</depend>
+  <depend>qt_gui_py_common</depend>
+  <depend>rclpy</depend>
+  <depend>rqt_py_common</depend>
+  <depend>std_srvs</depend>
+  <depend>ament_lint_auto</depend>
+  <depend>ament_lint_common</depend>
+
+  <test_depend>ament_lint_auto</test_depend>
+  <test_depend>ament_lint_common</test_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
