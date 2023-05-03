@@ -1,2 +1,6 @@
 # gui_widget_Project
-qt creator 를 사용한 나만의 GUI 만들기
+
+## 환경구성
+- OS : ubuntu22.04 
+- ros : humble
+- tools : Qt creator, python3.0, turtlesim_node
