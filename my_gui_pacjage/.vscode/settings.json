@@ -1,0 +1,30 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages",
+        "/home/turtle/robot_ws/install/sbg_driver/local/lib/python3.10/dist-packages",
+        "/home/turtle/robot_ws/install/rqt_example/local/lib/python3.10/dist-packages",
+        "/home/turtle/robot_ws/build/quaternions",
+        "/home/turtle/robot_ws/install/quaternions/lib/python3.10/site-packages",
+        "/home/turtle/robot_ws/build/growth_meter_application",
+        "/home/turtle/robot_ws/install/growth_meter_application/lib/python3.10/site-packages",
+        "/home/turtle/robot_ws/install/growth_meter/local/lib/python3.10/dist-packages",
+        "/home/turtle/robot_ws/install/exploration_bot_gui/local/lib/python3.10/dist-packages",
+        "/home/turtle/robot_ws/build/exploration_bot_application",
+        "/home/turtle/robot_ws/install/exploration_bot_application/lib/python3.10/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages",
+        "/home/turtle/robot_ws/install/sbg_driver/local/lib/python3.10/dist-packages",
+        "/home/turtle/robot_ws/install/rqt_example/local/lib/python3.10/dist-packages",
+        "/home/turtle/robot_ws/build/quaternions",
+        "/home/turtle/robot_ws/install/quaternions/lib/python3.10/site-packages",
+        "/home/turtle/robot_ws/build/growth_meter_application",
+        "/home/turtle/robot_ws/install/growth_meter_application/lib/python3.10/site-packages",
+        "/home/turtle/robot_ws/install/growth_meter/local/lib/python3.10/dist-packages",
+        "/home/turtle/robot_ws/install/exploration_bot_gui/local/lib/python3.10/dist-packages",
+        "/home/turtle/robot_ws/build/exploration_bot_application",
+        "/home/turtle/robot_ws/install/exploration_bot_application/lib/python3.10/site-packages"
+    ]
+}

@@ -7,7 +7,8 @@
 
 -----
 - 패키지 생성(ament_cmake)
-```
+  
+```python
  ros2 pkg create my_gui_pacjage --build-type ament_cmake --dependencies geometry_msgs python_qt_binding qt_gui_py_common rclpy rqt_py_common std_srvs ament_lint_auto ament_lint_common
 ```
 
