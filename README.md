@@ -5,6 +5,9 @@
 - ros : humble
 - tools : Qt creator, python3.0, turtlesim_node
 
+## 기간
+- 2023.05.01 ~ 진행중
+
 -----
 - 패키지 생성(ament_cmake)
   
